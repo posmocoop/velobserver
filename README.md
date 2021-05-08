@@ -21,19 +21,21 @@ Logos als [PNG, SVG, PDF](https://github.com/posmocoop/velobserver/blob/main/Log
 ### Twint QR Code
 Twint QR Code als EPS und PNG
 
-<table border="0" align="center">
-<tr><td>
-**Bequem mit TWINT bezahlen**
-
-Öffnen Sie Ihre TWINT-App und         
-tippen Sie auf das QR-Code-Symbol.                 
-Scannen Sie den QR Code.          
+<table border="0" align="center" >
+  <tr>
+    <td colspan="1">
+      <bold>Bequem mit TWINT bezahlen</bold>
+             
+            Öffnen Sie Ihre TWINT-App und         
+            tippen Sie auf das QR-Code-Symbol.                 
+            Scannen Sie den QR Code.          
               
-Geben Sie den Betrag Ihrer Spende ein       
-und bestätigen Sie die Zahlung.      
+            Geben Sie den Betrag Ihrer Spende ein       
+            und bestätigen Sie die Zahlung.      
 
-<img alt="Twint QR Code als PNG und EPS" src="https://github.com/posmocoop/velobserver/blob/main/twint_velobserver_qrcode.png" width="200"/>
+            <img alt="Twint QR Code als PNG und EPS" src="https://github.com/posmocoop/velobserver/blob/main/twint_velobserver_qrcode.png" width="200"/>
 
-VelObserver c/o Posmo
-<td /><tr />
+            VelObserver c/o Posmo
+     <td />
+  <tr />
 <table />
