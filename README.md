@@ -36,6 +36,8 @@ und bestätigen Sie die Zahlung.
 <img alt="Twint QR Code als PNG und EPS" src="https://github.com/posmocoop/velobserver/blob/main/twint_velobserver_qrcode.png" width="200"/>
                
 VelObserver c/o Posmo
+                       
+<img alt="Twint Logo" src="https://www.sparkasse.ch/bilder/twint/twint_logo_quer_pos_rgb.png" width="200"/>
      </td>
   </tr>
 </table>
