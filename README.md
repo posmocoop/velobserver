@@ -17,3 +17,7 @@ Logos als [PNG, SVG, PDF](https://github.com/posmocoop/velobserver/blob/main/Log
 ### Schrift
 - Lauftext Schrift [DM Sans](https://fonts.google.com/specimen/DM+Sans#about)  
 - Headline Schrift [Recoleta Light](https://www.fontshop.com/families/recoleta/buy)  
+
+### Twint QR Code
+[Twint QR Code als PNG und EPS](https://github.com/posmocoop/velobserver/blob/main/twint_velobserver_qrcode.png)
+
