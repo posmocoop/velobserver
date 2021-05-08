@@ -33,7 +33,6 @@ Scannen Sie den QR Code.
               
 Geben Sie den Betrag Ihrer Spende ein       
 und bestätigen Sie die Zahlung. 
-<img src="https://github.com/posmocoop/spatial_future/blob/master/logo%20dunkel@6x.png?raw=true" width="170" /> 
                   
 <img alt="Twint QR Code als PNG und EPS" src="https://github.com/posmocoop/velobserver/blob/main/twint_velobserver_qrcode.png" width="150"/>
                
