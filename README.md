@@ -24,7 +24,7 @@ Twint QR Code als EPS und PNG
 <table border="0">
   <tr>
     <td align="center">
-<b>Bequem mit TWINT bezahlen</b></br>
+<b>Bequem mit TWINT bezahlen</b><br />
                        
 Öffnen Sie Ihre TWINT-App und         
 tippen Sie auf das QR-Code-Symbol.                 
