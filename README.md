@@ -24,15 +24,16 @@ Twint QR Code als EPS und PNG
 <table border="0">
   <tr>
     <td align="center">
-<b>Bequem mit TWINT bezahlen</b>     
+<b>Mit TWINT für den VelObserver spenden!</b>     
                     
                                   
-Öffnen Sie Ihre TWINT-App und         
-tippen Sie auf das QR-Code-Symbol.                 
-Scannen Sie den QR Code.          
+Öffne deine TWINT-App und         
+tippe auf das QR-Code-Symbol.                 
+Scann den QR Code.          
               
-Geben Sie den Betrag Ihrer Spende ein       
-und bestätigen Sie die Zahlung. 
+Gib den Betrag deiner Spende ein       
+und bestätige die Zahlung.
+Vielen Dank! 
                   
 <img alt="Twint QR Code als PNG und EPS" src="https://github.com/posmocoop/velobserver/blob/main/twint_velobserver_qrcode.png" width="150"/>
                
