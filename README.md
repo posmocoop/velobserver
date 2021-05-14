@@ -32,7 +32,7 @@ tippe auf das QR-Code-Symbol.
 Scann den QR Code.          
               
 Gib den Betrag deiner Spende ein       
-und bestätige die Zahlung.
+und bestätige die Zahlung.            
 Vielen Dank! 
                   
 <img alt="Twint QR Code als PNG und EPS" src="https://github.com/posmocoop/velobserver/blob/main/twint_velobserver_qrcode.png" width="150"/>
