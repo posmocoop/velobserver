@@ -24,9 +24,9 @@ Twint QR Code als EPS und PNG
 <table border="0">
   <tr>
     <td align="center">
-<b>Mit TWINT für den VelObserver spenden!</b>     
-                    
-                                  
+<b>Mit TWINT für den VelObserver spenden!</b>           
+                       
+                                       
 Öffne deine TWINT-App und         
 tippe auf das QR-Code-Symbol.                 
 Scann den QR Code.          
