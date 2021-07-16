@@ -1,0 +1,17 @@
+{"type": "FeatureCollection",
+ "bbox": [ 8.481576, 47.345382, 8.578847, 47.421634],
+ "features": [
+  {"geometry":{"coordinates":[8.53198,47.34582],"type":"Point"},"id":"adm_stadtkreise_beschr_p.1","properties":{"bezeichnung":"Kreis 2","hali":1.0,"name":2.0,"objid":"1","ori":0.0,"vali":2.0},"type":"Feature"}
+ ,{"geometry":{"coordinates":[8.557856,47.352133],"type":"Point"},"id":"adm_stadtkreise_beschr_p.2","properties":{"bezeichnung":"Kreis 8","hali":1.0,"name":8.0,"objid":"2","ori":0.0,"vali":2.0},"type":"Feature"}
+ ,{"geometry":{"coordinates":[8.525443,47.421244],"type":"Point"},"id":"adm_stadtkreise_beschr_p.3","properties":{"bezeichnung":"Kreis 11","hali":1.0,"name":11.0,"objid":"3","ori":0.0,"vali":2.0},"type":"Feature"}
+ ,{"geometry":{"coordinates":[8.574353,47.402887],"type":"Point"},"id":"adm_stadtkreise_beschr_p.4","properties":{"bezeichnung":"Kreis 12","hali":1.0,"name":12.0,"objid":"4","ori":0.0,"vali":2.0},"type":"Feature"}
+ ,{"geometry":{"coordinates":[8.499507,47.406486],"type":"Point"},"id":"adm_stadtkreise_beschr_p.5","properties":{"bezeichnung":"Kreis 10","hali":1.0,"name":10.0,"objid":"5","ori":0.0,"vali":2.0},"type":"Feature"}
+ ,{"geometry":{"coordinates":[8.546674,47.392192],"type":"Point"},"id":"adm_stadtkreise_beschr_p.6","properties":{"bezeichnung":"Kreis 6","hali":1.0,"name":6.0,"objid":"6","ori":0.0,"vali":2.0},"type":"Feature"}
+ ,{"geometry":{"coordinates":[8.482312,47.383897],"type":"Point"},"id":"adm_stadtkreise_beschr_p.7","properties":{"bezeichnung":"Kreis 9","hali":1.0,"name":9.0,"objid":"7","ori":0.0,"vali":2.0},"type":"Feature"}
+ ,{"geometry":{"coordinates":[8.519968,47.388217],"type":"Point"},"id":"adm_stadtkreise_beschr_p.8","properties":{"bezeichnung":"Kreis 5","hali":1.0,"name":5.0,"objid":"8","ori":0.0,"vali":2.0},"type":"Feature"}
+ ,{"geometry":{"coordinates":[8.518935,47.379624],"type":"Point"},"id":"adm_stadtkreise_beschr_p.9","properties":{"bezeichnung":"Kreis 4","hali":1.0,"name":4.0,"objid":"9","ori":0.0,"vali":2.0},"type":"Feature"}
+ ,{"geometry":{"coordinates":[8.54112,47.372853],"type":"Point"},"id":"adm_stadtkreise_beschr_p.10","properties":{"bezeichnung":"Kreis 1","hali":1.0,"name":1.0,"objid":"10","ori":0.0,"vali":2.0},"type":"Feature"}
+ ,{"geometry":{"coordinates":[8.577787,47.371184],"type":"Point"},"id":"adm_stadtkreise_beschr_p.11","properties":{"bezeichnung":"Kreis 7","hali":1.0,"name":7.0,"objid":"11","ori":0.0,"vali":2.0},"type":"Feature"}
+ ,{"geometry":{"coordinates":[8.506778,47.362094],"type":"Point"},"id":"adm_stadtkreise_beschr_p.12","properties":{"bezeichnung":"Kreis 3","hali":1.0,"name":3.0,"objid":"12","ori":0.0,"vali":2.0},"type":"Feature"}
+ ]
+}
