@@ -6,8 +6,10 @@ c/o Genossenschaft Posmo Schweiz<br/>Roger Fischer<br/>Am Wasser 59<br/>CH-8049 
 <h2>Account/Konto - Datamap</h2>
 <p>Wir verwenden das Login-System von Datamap, damit es uns in Zukunft möglich ist, die Bewertungsfunktion um ein optionales Velotracking zu erweitern. 
 Die Datamap AG ist ein Technologiepartner der Genossenschaft Posmo Schweiz, sie ist Am Wasser 59, CH-8049 Zürich domiziliert.
-<li>- <a href="https://id.datamap.io/terms-of-service?app=posmo-web" target="_blank" rel="noopener">Terms of Service (en)</a></li>
-<li>- <a href="https://id.datamap.io/privacy-and-policy?app=posmo-web" target="_blank" rel="noopener">Privacy Policy (en)</a></li>
+<p><ul>
+<li><a href="https://id.datamap.io/terms-of-service?app=posmo-web" target="_blank" rel="noopener">Terms of Service (en)</a></li>
+<li><a href="https://id.datamap.io/privacy-and-policy?app=posmo-web" target="_blank" rel="noopener">Privacy Policy (en)</a></li>
+</ul></p>
 <p>Datamap verwendet den Versanddienstleister "Mailchimp" zum Versenden der Mails zur Kontoeröffnung, zur Zurücksetzung des Passworts etc.</p> 
 <p>&nbsp;</p>
 
