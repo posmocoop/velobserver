@@ -33,9 +33,14 @@ Die Datamap AG ist ein Technologiepartner der Genossenschaft Posmo Schweiz, sie 
 <p>Wir nutzen <a href="https://ipstack.com" target="_blank" rel="noopener">ipstack</a> fürs die IP analytics von velobserver.ch. Wenn ein Nutzer bzw. eine Nutzerin Velorouten bewertet, wollen wir wissen, ob das jemand von weit her ist, oder aus Zürich bzw. der Nähe von Zürich. So wollen wir mögliche Verfälschungen der Resultate vermeiden.</p>
 <p>&nbsp;</p>
 
+<h2>Image Optimizer – imgix</h2> 
+<p>Wir nutzen <a href="https://imgix.com/" target="_blank" rel="noopener">imgix</a> fürs die Fotos von velobserver.ch. Je nachdem welches Gerät jemand benützt, werden die Bilder verschieden gross von imgix gerendert. See their a href="https://imgix.com/privacy" target="_blank" rel="noopener">privacy policy</a>.</p>
+<p>&nbsp;</p>
+
+
 
 <h2>Font Recoleta Light – FontShop</h2> 
-<p>Wir nutzen den Font Recoleta Light von <a href="https://www.fontshop.com/families/recoleta/buy" target="_blank" rel="noopener">FontShop</a>. See their <a href="https://www.fontshop.com/content/legal#privacy-policy" target="_blank" rel="noopener">privacy policy</p>
+<p>Wir nutzen den Font Recoleta Light von <a href="https://www.fontshop.com/families/recoleta/buy" target="_blank" rel="noopener">FontShop</a>. See their <a href="https://www.fontshop.com/content/legal#privacy-policy" target="_blank" rel="noopener">privacy policy</a>.</p>
 <p>&nbsp;</p>
 
 
