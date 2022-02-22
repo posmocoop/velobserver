@@ -34,7 +34,7 @@ Die Datamap AG ist ein Technologiepartner der Genossenschaft Posmo Schweiz, sie 
 <p>&nbsp;</p>
 
 <h2>Image Optimizer – imgix</h2> 
-<p>Wir nutzen <a href="https://imgix.com/" target="_blank" rel="noopener">imgix</a> fürs die Fotos von velobserver.ch. Je nachdem welches Gerät jemand benützt, werden die Bilder verschieden gross von imgix gerendert. See their a href="https://imgix.com/privacy" target="_blank" rel="noopener">privacy policy</a>.</p>
+<p>Wir nutzen <a href="https://imgix.com/" target="_blank" rel="noopener">imgix</a> fürs die Fotos von velobserver.ch. Je nachdem welches Gerät jemand benützt, werden die Bilder verschieden gross von imgix gerendert. See their <a href="https://imgix.com/privacy" target="_blank" rel="noopener">privacy policy</a>.</p>
 <p>&nbsp;</p>
 
 
