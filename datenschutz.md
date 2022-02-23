@@ -34,13 +34,13 @@ Die Datamap AG ist ein Technologiepartner der Genossenschaft Posmo Schweiz, sie 
 <p>&nbsp;</p>
 
 <h2>Image Optimizer – imgix</h2> 
-<p>Wir nutzen <a href="https://imgix.com/" target="_blank" rel="noopener">imgix</a> fürs die Fotos von velobserver.ch. Je nachdem welches Gerät jemand benützt, werden die Bilder verschieden gross von imgix gerendert. See their <a href="https://imgix.com/privacy" target="_blank" rel="noopener">privacy policy</a>.</p>
+<p>Wir nutzen <a href="https://imgix.com/" target="_blank" rel="noopener">imgix</a> fürs die Fotos von velobserver.ch. Je nachdem welches Gerät jemand benützt, werden die Bilder verschieden gross von imgix gerendert. Zur <a href="https://imgix.com/privacy" target="_blank" rel="noopener">Privacy Policy</a>.</p>
 <p>&nbsp;</p>
 
 
 
 <h2>Web Font Recoleta Light – FontShop</h2> 
-<p>Wir nutzen den web font Recoleta Light von <a href="https://www.fontshop.com/families/recoleta/buy" target="_blank" rel="noopener">FontShop</a>. See their <a href="https://www.fontshop.com/content/legal#privacy-policy" target="_blank" rel="noopener">privacy policy</a>.</p>
+<p>Wir nutzen den web font Recoleta Light von <a href="https://www.fontshop.com/families/recoleta/buy" target="_blank" rel="noopener">FontShop</a>. Zur <a href="https://www.fontshop.com/content/legal#privacy-policy" target="_blank" rel="noopener">Privacy Policy</a>.</p>
 <p>&nbsp;</p>
 
 
