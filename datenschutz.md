@@ -39,8 +39,8 @@ Die Datamap AG ist ein Technologiepartner der Genossenschaft Posmo Schweiz, sie 
 
 
 
-<h2>Font Recoleta Light – FontShop</h2> 
-<p>Wir nutzen den Font Recoleta Light von <a href="https://www.fontshop.com/families/recoleta/buy" target="_blank" rel="noopener">FontShop</a>. See their <a href="https://www.fontshop.com/content/legal#privacy-policy" target="_blank" rel="noopener">privacy policy</a>.</p>
+<h2>Web Font Recoleta Light – FontShop</h2> 
+<p>Wir nutzen den web font Recoleta Light von <a href="https://www.fontshop.com/families/recoleta/buy" target="_blank" rel="noopener">FontShop</a>. See their <a href="https://www.fontshop.com/content/legal#privacy-policy" target="_blank" rel="noopener">privacy policy</a>.</p>
 <p>&nbsp;</p>
 
 
